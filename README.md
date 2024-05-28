@@ -26,3 +26,14 @@ Bu proje, PyQt5 ile oluşturulmuş bir kütüphane yönetim sistemidir. Sistem, 
 - **PyQt5**: Kullanıcı arayüzlerinin oluşturulması için kullanılmıştır.
 - **SQLite**: Veritabanı yönetim sistemi olarak kullanılmıştır.
 - **Python**: Projenin ana programlama dilidir.
+
+## Kayıt Ekranı
+![Kayıt Ekranı](Arayüz/Kayıt-GirişEkranı.png)
+
+## Öğrenci Ekranı
+![Öğrenci Ekranı](Arayüz/OgrenciEkrani.png)
+
+## Personel Ekranı
+![Personel Ekranı](Arayüz/PersonelEkranı.png)
+
+
